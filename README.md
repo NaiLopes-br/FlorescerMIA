@@ -140,6 +140,17 @@ Função de emergência para momentos críticos:
 
 ---
 
+## 🤝 Conexão com Profissionais de Saúde Mental
+
+O **FlorescerMIA** vai além do acolhimento digital e oferece uma **ponte direta para o cuidado profissional** quando você precisar:
+
+- **Agendamento de sessões pagas** com psicólogos, terapeutas e coaches especializados, tudo pelo próprio aplicativo.  
+- **Apresentação digital da carteirinha de convênio**, facilitando o acesso aos serviços credenciados.  
+- **Integração com o SUS** para consultas e acompanhamentos gratuitos, promovendo inclusão e acesso universal.  
+
+Essa funcionalidade garante que você tenha suporte qualificado sempre que desejar, unindo tecnologia, cuidado e praticidade em um só lugar.
+
+
 ---
 
 ## 👩‍💻 Sobre a Desenvolvedora
