@@ -16,12 +16,25 @@ Pensada especialmente para o bem-estar emocional, FlorescerMIA te ajuda com tare
 - 🌙 **Momentos de pausa**: meditações guiadas, exercícios de respiração e pequenas práticas de autocuidado.  
 - 💬 **Conversa amiga**: diálogo empático, sem julgamentos, com foco em conexão e conforto.
 
+----
+
+#         🪷🗣️ Converse com a MIA  🪷
+
+Está precisando de um ombro amigo virtual, um lembrete gentil ou simplesmente quer compartilhar seus pensamentos? A MIA está aqui para você! Sinta-se à vontade para iniciar uma conversa. Ela está pronta para ouvir sem julgamentos e oferecer apoio da melhor forma possível. 😊
+
+Acesse a MIA [clicando AQUI](https://colab.research.google.com/github/NaiLopes-br/FlorescerMIA/blob/main/MIA_Protótipo.ipynb)
+
+OU
+
+![image](https://github.com/user-attachments/assets/7c1e496c-394d-4123-b104-2bced32e5c5c)
+
 ---
 
 🌷 **FlorescerMIA** é sobre florescer no seu tempo.  
 Com gentileza. Com presença. Com amor.
 
 ---
+
 
 ## 🎨 **Processo Criativo**
 
@@ -256,8 +269,3 @@ Tecnologias que tornaram o **FlorescerMIA** possível — combinando design, int
 > Linguagem de programação base do projeto, usada para scripts de automação, lógica da IA e integração com APIs.
 
 ---
-
-
-
-
-
