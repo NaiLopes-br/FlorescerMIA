@@ -2,7 +2,7 @@
 
 # 🌸 **FlorescerMIA**
 
-> *“Florescer é um processo — e você não precisa passar por ele sozinha.”*
+> *“Florescer é um processo — e você não precisa passar por ele sozinho.”*
 
 **FlorescerMIA** é mais do que uma assistente pessoal.  
 Ela é um espaço seguro, uma presença gentil, um lembrete diário de que você merece cuidado, equilíbrio e leveza.
