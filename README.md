@@ -250,6 +250,9 @@ Tecnologias que tornaram o **FlorescerMIA** possível — combinando design, int
 ![Design sem nome (2)](https://github.com/user-attachments/assets/19cc070d-941c-4d01-bb26-039e268775da)
 ---
 
+![image](https://github.com/user-attachments/assets/237410d9-4547-42d5-97b4-76bee131e8b7)
+
+
 ### 🌌 [Gemini](https://deepmind.google/technologies/gemini/)
 > **IA avançada da Google** para raciocínio multimodal, tomada de decisões e compreensão contextual.
 
